@@ -1,1 +1,1 @@
-hello
+Javascript practice folder
